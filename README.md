@@ -1,5 +1,18 @@
 ## Welcome to GitHub Pages
 
+### Repo's published on DevNet: 
+
+Repo to create Hyperflex Edge Deploy Profile and its policies in Intersight : 
+[terraform-intersight-hx-edge-deploy](https://developer.cisco.com/codeexchange/github/repo/sandkum5/terraform-intersight-hx-edge-deploy)
+
+Repo to create UCS C-series server profile and its associated policies in Intersight : 
+[intersight-terraform-C-Series](https://developer.cisco.com/codeexchange/github/repo/sandkum5/intersight-terraform-C-Series)
+
+Repo to create Software Repo's and install OS on UCS C-series server in Intersight : 
+[terraform_intersight_os_install](https://developer.cisco.com/codeexchange/github/repo/sandkum5/terraform_intersight_os_install)
+
+<br/><br/>
+
 You can use the [editor on GitHub](https://github.com/sandkum5/sandkum5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
